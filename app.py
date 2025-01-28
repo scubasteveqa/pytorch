@@ -2,6 +2,7 @@ import streamlit as st
 import torch
 import torch.nn as nn
 import torch.optim as optim
+import freezegun
 
 # Define a simple linear regression model
 class LinearRegressionModel(nn.Module):
