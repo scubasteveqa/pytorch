@@ -1,5 +1,3 @@
 torch
 streamlit
-cowsay
-multidict
-tiktoken
+yarl
